@@ -1,0 +1,25 @@
+# MATLAB temporary and backup files
+*.asv
+*.autosave
+*.m~
+*.bak
+*.tmp
+*~
+
+# MATLAB and Simulink generated files
+slprj/
+*.slxc
+*.slxc.lock
+codegen/
+
+# Simulink simulation outputs
+*.slx.autosave
+
+# macOS system files
+.DS_Store
+__MACOSX/
+._*
+
+# Editor temporary files
+*.swp
+*.swo
